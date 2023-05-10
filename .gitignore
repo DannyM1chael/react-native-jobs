@@ -9,6 +9,14 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+.env
+
+# Jetbrains
+.idea
 
 # macOS
 .DS_Store
+
+# Windows
+%ProgramData%
+
